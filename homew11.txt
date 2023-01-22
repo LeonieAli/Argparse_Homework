@@ -1,0 +1,11 @@
+This is my textfile for the argparse homework.
+
+It's not a poem.
+Without any storyline.
+No goal or content.
+It has no sense.
+It's just sentence.
+After sentence.
+Simple.
+
+
